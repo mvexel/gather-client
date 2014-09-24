@@ -1,0 +1,30 @@
+2014-09-23 09:10:05.980 Gather[10795:313765] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/martijnv/Library/Developer/CoreSimulator/Devices/CFD8D8F7-9572-4C7E-A786-FBA76537B53B/data/Containers/Data/Application/572DB309-B5F7-45F2-850D-61F18F6950F9/Library/Cookies/Cookies.binarycookies
+2014-09-23 09:10:06.051 Gather[10795:313765] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-23 09:10:06.051 Gather[10795:313765] Multi-tasking -> Device: YES, App: YES
+2014-09-23 09:10:06.057 Gather[10795:313765] Unlimited access to network resources
+2014-09-23 09:10:06.059 Gather[10795:313765] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-23 09:10:07.167 Gather[10795:313765] Resetting plugins due to page load.
+2014-09-23 09:10:07.219 Gather[10795:313765] Finished load of: file:///Users/martijnv/Library/Developer/CoreSimulator/Devices/CFD8D8F7-9572-4C7E-A786-FBA76537B53B/data/Containers/Bundle/Application/FC81EAD4-E841-4BB3-B4BD-55D04FE9336D/Gather.app/www/index.html
+2014-09-23 09:10:07.292 Gather[10795:313765] THREAD WARNING: ['Geolocation'] took '31.308838' ms. Plugin should use a background thread.
+2014-09-23 09:10:09.293 Gather[10795:313765] locationManager::didFailWithError (null)
+2014-09-23 09:48:54.585 Gather[12169:335600] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/martijnv/Library/Developer/CoreSimulator/Devices/CFD8D8F7-9572-4C7E-A786-FBA76537B53B/data/Containers/Data/Application/F38F8E7F-F5B7-42EF-B82A-D40A54D46834/Library/Cookies/Cookies.binarycookies
+2014-09-23 09:48:54.653 Gather[12169:335600] Apache Cordova native platform version 3.6.3 is starting.
+2014-09-23 09:48:54.653 Gather[12169:335600] Multi-tasking -> Device: YES, App: YES
+2014-09-23 09:48:54.671 Gather[12169:335600] Unlimited access to network resources
+2014-09-23 09:48:54.674 Gather[12169:335600] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-09-23 09:48:55.195 Gather[12169:335600] Resetting plugins due to page load.
+2014-09-23 09:48:55.273 Gather[12169:335600] Finished load of: file:///Users/martijnv/Library/Developer/CoreSimulator/Devices/CFD8D8F7-9572-4C7E-A786-FBA76537B53B/data/Containers/Bundle/Application/DAB6DD5C-4EA4-4F10-858C-DDCBFFDFA7C8/Gather.app/www/index.html
+2014-09-23 09:48:55.323 Gather[12169:335600] * Device is ready! *
+2014-09-23 09:48:55.329 Gather[12169:335600] locationManager::didFailWithError (null)
